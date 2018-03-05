@@ -1,0 +1,26 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#footer {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+#home,
+  #nyc {
+  background-image: url("/Users/sandraswiercz/Documents/GitHub/SandraSw.github.io/Broadway/Resources/Images/the-flatiron-building.png");
+}
+
+h1,
+  a,
+    #nyc,
+      #footer {
+        color: white;
+    }
+
+h1 {
+  font-size: 70px;
+}
